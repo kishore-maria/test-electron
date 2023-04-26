@@ -15,11 +15,11 @@
     },
     "win": {
       "target": "nsis",
-      "icon": "assets/images/angular_icon.ico"
+      "icon": "./assets/angular_icon.ico"
     },
     "mac": {
       "target": "dmg",
-      "icon": "assets/images/angular_icon.ico"
+      "icon": "./assets/angular_icon_mac.ico"
     }
   },
   "repository": "https://github.com/kishore-maria/angular-electron-practice",
